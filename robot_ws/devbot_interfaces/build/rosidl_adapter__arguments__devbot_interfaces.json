@@ -1,0 +1,6 @@
+{
+  "package_name": "devbot_interfaces",
+  "non_idl_tuples": [
+    "/home/devin1126/dev_ws/src/devbot_interfaces:msg/Teleop.msg"
+  ]
+}

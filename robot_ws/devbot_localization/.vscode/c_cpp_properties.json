@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/devin1126/dev_ws/install/turtlebot3_gazebo/include/**",
+        "/home/devin1126/dev_ws/install/turtlebot3_fake_node/include/**",
+        "/home/devin1126/dev_ws/install/devbot_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/devin1126/dev_ws/src/bno055_imu_ros/include/**",
+        "/home/devin1126/dev_ws/src/devbot_bringup/include/**",
+        "/home/devin1126/dev_ws/src/devbot_localization/include/**",
+        "/home/devin1126/dev_ws/src/devbot_teleop/include/**",
+        "/home/devin1126/dev_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/devin1126/dev_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/devin1126/dev_ws/src/turtlebot_localization_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
